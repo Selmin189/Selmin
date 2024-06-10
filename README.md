@@ -1,5 +1,4 @@
 # 👋 Hi there, I'm Selmin
-👩‍🎓 I've successfully obtained a Bachelor's degree in Software Engineering
 
 ✨ Interested in Back-end technologies
 
