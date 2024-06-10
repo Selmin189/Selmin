@@ -6,5 +6,5 @@
 My main stack:
 🔸 Java 🔸 Spring Boot 🔸 MySQL 🔸 Hibernate 🔸 Thymeleaf 🔸 REST APIs 🔸 React 🔸 Android development 🔸 Spring MVC 🔸 JavaScript
 
-Have basic experience with:
+Have experience with:
 🔹 C# 🔹 Unity 3D 🔹 Vaadin 🔹 Apache Airflow 🔹 Python 🔹 Postman 🔹 Typescript 🔹 CSS
